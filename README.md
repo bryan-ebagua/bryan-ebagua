@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hello, I'm Bryan Ebagua
 
-<!--
-**bryan-ebagua/bryan-ebagua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Skills
 
-Here are some ideas to get you started:
+# Certifications
+<div>
+  <a href = "https://cp.certmetrics.com/comptia/en/public/verify/credential/N7NP78WQXN145VL2" target="_blank">
+  <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+  </a>
+  
+  <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
